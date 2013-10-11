@@ -2,7 +2,7 @@ Copyright 2013 NPR.  All rights reserved.  No part of these materials may be rep
 
 (Want to use this code? Send an email to nprapps@npr.org!)
 
-nprapps' Project Template
+nprapps' Project Template  coucou
 =========================
 
 * [About this template](#about-this-template)
